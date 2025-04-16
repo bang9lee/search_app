@@ -1,16 +1,15 @@
-# search_app
+# 네이버검색API APP입니다
 
-A new Flutter project.
+assets/
+ - .env 파일생성후 
+본인의 naver APIkey 값을 입력해주세요
 
-## Getting Started
+NAVER_CLIENT_ID= 클라이언트아이디
+NAVER_CLIENT_SECRET= 시크릿
+VWORLD_API_KEY=*
 
-This project is a starting point for a Flutter application.
+# VWORLD API를 통해 정확한주소확인가능
 
-A few resources to get you started if this is your first Flutter project:
+webview를 통하여 검색된 결과를 눌러서 홈페이지로 이동가능
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
