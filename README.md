@@ -7,7 +7,9 @@
 API 키 입력: 생성한 .env 파일에 본인의 네이버 API 키와 VWORLD API 키를 다음과 같은 형식으로 입력합니다.
 
 NAVER_CLIENT_ID=YOUR_CLIENT_ID
+
 NAVER_CLIENT_SECRET=YOUR_CLIENT_SECRET
+
 VWORLD_API_KEY=YOUR_VWORLD_API_KEY
 
 NAVER_CLIENT_ID: 네이버 개발자 센터에서 발급받은 클라이언트 아이디를 입력해주세요.
