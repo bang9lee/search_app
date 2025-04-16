@@ -15,7 +15,9 @@ NAVER_CLIENT_SECRET=YOUR_CLIENT_SECRET
 VWORLD_API_KEY=YOUR_VWORLD_API_KEY
 
 NAVER_CLIENT_ID: 네이버 개발자 센터에서 발급받은 클라이언트 아이디를 입력해주세요.
+
 NAVER_CLIENT_SECRET: 네이버 개발자 센터에서 발급받은 클라이언트 시크릿 키를 입력해주세요.
+
 VWORLD_API_KEY: VWORLD 개발자 센터에서 발급받은 API 키를 입력해주세요. (정확한 주소 확인 기능 사용 시 필요)
 
 # ✨ 주요 기능
