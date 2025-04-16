@@ -26,7 +26,8 @@ class HomePageState extends ConsumerState<HomePage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('장소 검색'),
+        title: Text('🌏장소 검색🌏'),
+        centerTitle: true,
         actions: [
           IconButton(
             icon: const Icon(Icons.gps_fixed, color: Colors.blue, size: 24.0),
